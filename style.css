@@ -24,8 +24,10 @@ html,body{
     border-radius: 8px;
     background-color: #28A9F1;
     border: none;
-    padding: 20px 150px;
+    padding: 20px 130px;
     font-family: 'Josefin Sans','sans-serif';
+    font-size: 22px;
+    font-weight: 700;
 
 }
 
@@ -35,6 +37,25 @@ html,body{
     border: none;
     padding: 60px 100px;
     margin: 10px 0;
+}
+
+#from-feild{
+    background-color: #444059;
+    border-radius: 8px;
+    border: none;
+    padding: 20px 15px;
+    text-align: center;
+}
+
+#to-feild{
+    background-color: #444059;
+    border-radius: 8px;
+    border: none;
+    padding: 20px 15px;
+    text-align: center;
+}
+.from-to-inputfields{
+    margin-bottom: 10px;
 }
 
 img{
