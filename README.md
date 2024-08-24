@@ -4,4 +4,4 @@ features to be added:
 - likes
 
 
-live site: https://we-are-the-champions-riyadh.netlify.app/
+live site: https://wearethechampions-riyadh.netlify.app/
